@@ -1,4 +1,4 @@
-#data Discritization
+#data visualization
 import matplotlib.pyplot as plt
 
 data = [4,8,15,21,21,24,25,28,34]
